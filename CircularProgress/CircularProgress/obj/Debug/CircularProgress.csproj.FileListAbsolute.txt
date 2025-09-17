@@ -1,0 +1,10 @@
+C:\Users\Morteza\source\repos\CircularProgress\CircularProgress\bin\Debug\CircularProgress.exe.config
+C:\Users\Morteza\source\repos\CircularProgress\CircularProgress\bin\Debug\CircularProgress.exe
+C:\Users\Morteza\source\repos\CircularProgress\CircularProgress\bin\Debug\CircularProgress.pdb
+C:\Users\Morteza\source\repos\CircularProgress\CircularProgress\obj\Debug\CircularProgress.csprojAssemblyReference.cache
+C:\Users\Morteza\source\repos\CircularProgress\CircularProgress\obj\Debug\CircularProgress.Form1.resources
+C:\Users\Morteza\source\repos\CircularProgress\CircularProgress\obj\Debug\CircularProgress.Properties.Resources.resources
+C:\Users\Morteza\source\repos\CircularProgress\CircularProgress\obj\Debug\CircularProgress.csproj.GenerateResource.cache
+C:\Users\Morteza\source\repos\CircularProgress\CircularProgress\obj\Debug\CircularProgress.csproj.CoreCompileInputs.cache
+C:\Users\Morteza\source\repos\CircularProgress\CircularProgress\obj\Debug\CircularProgress.exe
+C:\Users\Morteza\source\repos\CircularProgress\CircularProgress\obj\Debug\CircularProgress.pdb
